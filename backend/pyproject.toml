@@ -1,0 +1,9 @@
+[project]
+name = "dori-backend"
+version = "1.0.0"
+description = "DORI Smart Reception AI - Backend"
+requires-python = ">=3.12"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
